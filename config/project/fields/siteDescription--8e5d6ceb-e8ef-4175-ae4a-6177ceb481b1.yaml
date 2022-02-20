@@ -1,0 +1,19 @@
+columnSuffix: azzwsjco
+contentColumnType: text
+fieldGroup: 74390d0a-b5c7-4ee1-ad72-1894622f6192 # Global Fields
+handle: siteDescription
+instructions: ''
+name: 'Site Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

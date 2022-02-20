@@ -1,0 +1,19 @@
+columnSuffix: ndmdnxcr
+contentColumnType: text
+fieldGroup: 958462d0-9686-4c48-b82a-7ae58e612250 # Blog Post Fields
+handle: summary
+instructions: 'short description of the blog post'
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

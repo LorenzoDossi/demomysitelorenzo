@@ -1,0 +1,47 @@
+dateModified: 1644771246
+email:
+  fromEmail: lorenzodss@gmail.com
+  fromName: blog
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2e631577-8d05-40aa-85da-cc2f5059fe1a: 'blog categories' # blog categories
+    4f2e60cb-16bd-46e8-9f75-4f5a923fe7be: Image # Image
+    7e703fc9-86e3-4868-8364-3d535006c9b6: Common # Common
+    8e5d6ceb-e8ef-4175-ae4a-6177ceb481b1: 'Site Description' # Site Description
+    17b4529b-151f-4781-9b4d-c681eb925b9d: Summary # Summary
+    92cd8556-6cf2-468d-90c4-4382d5f9503a: 'Post Categories' # Post Categories
+    302d91e1-2bc2-45e3-bfc7-8546b70a0ed4: General # General
+    74390d0a-b5c7-4ee1-ad72-1894622f6192: 'Global Fields' # Global Fields
+    98917b14-a42d-440c-a94e-458883f9ab27: about # about
+    286888dd-1383-47b7-9770-322de736361a: blog # blog
+    958462d0-9686-4c48-b82a-7ae58e612250: 'Blog Post Fields' # Blog Post Fields
+    7249045f-ef4f-470b-af17-6f8fed193be2: 'Feature Image' # Feature Image
+    66898488-3c2e-4872-9d6d-c3fc2d1611ef: about # about
+    af405883-6c61-4f3c-99bf-9c2e920d14d0: Text # Text
+    b43f3474-4f51-4c9f-ac3a-2bbb842b58b3: 'About Image' # About Image
+    c2cf97a7-0756-4827-8387-92c11910da4f: blog # blog
+    d1dc5701-e6e3-4c13-9865-6f2669e40c96: blog # blog
+    d635d612-036e-49f4-9e78-00382f79ddda: blog # blog
+    d919a6df-06cd-45ac-9a20-a5b22d00d5dc: Text # Text
+    dc49dc88-69ea-4fa6-a3d1-c45e39ab6224: 'Site Information' # Site Information
+    e7acb228-a0b9-4049-8ded-f33e48a1a545: 'Singles Fields' # Singles Fields
+    f155d502-695b-43b0-aa8b-8e49779ea1c7: 'Post Content' # Post Content
+    f7790e88-1a96-4133-bcb1-09e0cf4a20e4: blog # blog
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: blog
+  schemaVersion: 3.7.32
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
